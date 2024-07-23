@@ -59,3 +59,7 @@ Deploy the app to app stores (Google Play Store, Apple App Store) and web server
 Monitor app performance and address any issues that arise during launch.
 
 Technologies Used : HTML CSS JAVASCRIPT
+![image](https://github.com/user-attachments/assets/6e1a9a0e-11d4-4905-9096-aa86a121a81f)
+
+![image](https://github.com/user-attachments/assets/b16d047d-7229-4a35-9641-d3367d404769)
+
